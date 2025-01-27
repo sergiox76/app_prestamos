@@ -1,0 +1,7 @@
+[http]
+	postBuffer = 1048576000
+[user]
+	name = sergiox76
+	email = sergioxx767xx@gmail.com
+[credential]
+	helper = cache
